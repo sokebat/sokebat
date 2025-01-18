@@ -30,7 +30,7 @@ Feel free to explore my repositories and dig into the code. If you find somethin
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sokebat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sokebat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sokebat&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sokebat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Let's Connect
@@ -42,6 +42,6 @@ I'm always looking to connect with fellow developers, tech enthusiasts, and open
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subedi-ashish/)
 [![GitHub Follow](https://img.shields.io/github/followers/sokebat?style=social)](https://github.com/sokebat)
 
-[![](https://visitcount.itsvg.in/api?id=soke&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sokebat&icon=2&color=3)](https://visitcount.itsvg.in)
 
  
