@@ -17,19 +17,32 @@ I have always been fascinated by the infinite possibilities that technology brin
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sokebat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sokebat&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sokebat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sokebat&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokebat&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sokebat&show_icons=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00&theme=dark&hide_border=false" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sokebat/sokebat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sokebat/sokebat/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sokebat/sokebat/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🌐 Let's Connect
 
 I'm always looking to connect with fellow developers, tech enthusiasts, and open-source contributors. You can find me on social media platforms like Twitter and LinkedIn. Let's geek out together!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084561798504)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sokebat/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sokebat/)
-[![GitHub Follow](https://img.shields.io/github/followers/sokebat?style=social)](https://github.com/sokebat)
-
-[![](https://visitcount.itsvg.in/api?id=sokebat&icon=2&color=3)](https://visitcount.itsvg.in)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sokebat/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084561798504)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sokebat&style=for-the-badge" alt="Profile Views"/>
+</div>
 
  
