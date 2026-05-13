@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm Ashish Subedi </h1>
+<h1 align="center"> Hi, I'm Ashish Subedi </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=72A6FD&center=true&vCenter=true&width=600&lines=Developer+%7C+Tech+Enthusiast;Turning+ideas+into+code;Open+Source+Contributor" alt="Typing SVG">
   </a>
 </p>
 
-## 🧠 About Me
+##  About Me
 I'm a passionate developer who loves building clean, functional software and contributing to open source. My journey started with `Hello, World!` – now I'm crafting real‑world applications and exploring new technologies every day.
 
-## 💻 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -19,7 +19,7 @@ I'm a passionate developer who loves building clean, functional software and con
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -29,7 +29,7 @@ I'm a passionate developer who loves building clean, functional software and con
 
 </div>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sokebat/sokebat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
@@ -37,7 +37,7 @@ I'm a passionate developer who loves building clean, functional software and con
 </div>
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sokebat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
